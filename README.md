@@ -1,4 +1,4 @@
-# Bone Fracture Detection using Deep Learning
+# Bone Fracture Detection using DenseNet121
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://www.tensorflow.org/)
