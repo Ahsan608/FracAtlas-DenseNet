@@ -69,7 +69,8 @@ The model employs comprehensive data augmentation techniques:
 
 ### Confusion Matrix
 
-![Confusion Matrix](confusion_matrix.png)
+<img width="394" height="354" alt="image" src="https://github.com/user-attachments/assets/ae62d32f-c67d-4997-8f5b-1be5386fb6ee" />
+
 
 The confusion matrix shows:
 - **True Negatives**: 665 (correctly identified non-fractured cases)
