@@ -80,7 +80,8 @@ The confusion matrix shows:
 
 ### Training History
 
-![Training History](training_history.png)
+![Uploading image.png…]()
+
 
 The training curves show model convergence over 25 epochs with both training and validation metrics.
 
